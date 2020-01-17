@@ -4,6 +4,11 @@ casdr:
   country: nl
   companies:
     - breedband
+Gissa:
+  full_name: Gijs Kwaad
+  country: nl
+  companies:
+    - breedband
 Cybertinus:
   full_name: Tijn Buijs
   country: nl
